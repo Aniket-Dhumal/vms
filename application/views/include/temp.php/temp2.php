@@ -1,0 +1,54 @@
+<option <?=(@$edit && $edit->billType=="पहिले रनिंग बिल")? 'SELECTED':'';?>                                            
+
+<select class="form-control" name="billType" ></select>
+                                                     <?=(@$edit && $edit->billType=="पहिले रनिंग बिल ")? 'SELECTED':'';?>            
+                                                     <?=(@$edit && $edit->billType=="पहिले व अंतिम बिल")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="दुसरे  रनिंग बिल ")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="दुसरे व अंतिम बिल")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="तिसरे रनिंग बिल ")? 'SELECTED':'';?>            
+                                                     <?=(@$edit && $edit->billType=="तिसरे व अंतिम बिल")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="चौथे रनिंग बिल ")? 'SELECTED':'';?>             
+                                                     <?=(@$edit && $edit->billType=="चौथे व अंतिम बिल")? 'SELECTED':'';?>            
+                                                     <?=(@$edit && $edit->billType=="पाचवे रनिंग बिल ")? 'SELECTED':'';?>            
+                                                     <?=(@$edit && $edit->billType=="पाचवे व अंतिम बिल")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="सहावे रनिंग बिल ")? 'SELECTED':'';?>            
+                                                     <?=(@$edit && $edit->billType=="सहावे व अंतिम बिल")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="सातवे रनिंग बिल ")? 'SELECTED':'';?>            
+                                                     <?=(@$edit && $edit->billType=="सातवे व अंतिम बिल")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="आठवे रनिंग बिल ")? 'SELECTED':'';?>             
+                                                     <?=(@$edit && $edit->billType=="आठवे व अंतिम बिल")? 'SELECTED':'';?>            
+                                                     <?=(@$edit && $edit->billType=="नववे रनिंग बिल ")? 'SELECTED':'';?>             
+                                                     <?=(@$edit && $edit->billType=="नववे व अंतिम बिल")? 'SELECTED':'';?>            
+                                                     <?=(@$edit && $edit->billType=="दहावे रनिंग बिल ")? 'SELECTED':'';?>            
+                                                     <?=(@$edit && $edit->billType=="दहावे व अंतिम बिल")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="अकरावे रनिंग बिल ")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="अकरावे व अंतिम बिल")? 'SELECTED':'';?>          
+                                                     <?=(@$edit && $edit->billType=="बारावे रनिंग बिल ")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="बारावे व अंतिम बिल")? 'SELECTED':'';?>          
+                                                     <?=(@$edit && $edit->billType=="तेरावे  रनिंग बिल ")? 'SELECTED':'';?>          
+                                                     <?=(@$edit && $edit->billType=="तेरावे व अंतिम बिल")? 'SELECTED':'';?>          
+                                                     <?=(@$edit && $edit->billType=="चौदावे रनिंग बिल ")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="चौदावे व अंतिम बिल")? 'SELECTED':'';?>          
+                                                     <?=(@$edit && $edit->billType=="पंधरावे रनिंग बिल ")? 'SELECTED':'';?>          
+                                                     <?=(@$edit && $edit->billType=="पंधरावे व अंतिम बिल")? 'SELECTED':'';?>         
+                                                     <?=(@$edit && $edit->billType=="सोळावे रनिंग बिल ")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="सोळावे व अंतिम बिल")? 'SELECTED':'';?>          
+                                                     <?=(@$edit && $edit->billType=="सतरावे रनिंग बिल ")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="सतरावे व अंतिम बिल")? 'SELECTED':'';?>          
+                                                     <?=(@$edit && $edit->billType=="अठरावे रनिंग बिल ")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="अठरावे व अंतिम बिल")? 'SELECTED':'';?>          
+                                                     <?=(@$edit && $edit->billType=="एकोणिसावे रनिंग बिल ")? 'SELECTED':'';?>        
+                                                     <?=(@$edit && $edit->billType=="एकोणिसावे व अंतिम बिल")? 'SELECTED':'';?>       
+                                                     <?=(@$edit && $edit->billType=="विसावे रनिंग बिल ")? 'SELECTED':'';?>           
+                                                     <?=(@$edit && $edit->billType=="विसावे व अंतिम बिल")? 'SELECTED':'';?>          
+                                                     <?=(@$edit && $edit->billType=="एकविसावे रनिंग बिल ")? 'SELECTED':'';?>         
+                                                     <?=(@$edit && $edit->billType=="एकविसावे व अंतिम बिल")? 'SELECTED':'';?>        
+                                                     <?=(@$edit && $edit->billType=="बाविसावे रनिंग बिल ")? 'SELECTED':'';?>         
+                                                     <?=(@$edit && $edit->billType=="बाविसावे व अंतिम बिल")? 'SELECTED':'';?>        
+                                                     <?=(@$edit && $edit->billType=="तेवीसावे रनिंग बिल ")? 'SELECTED':'';?>         
+                                                     <?=(@$edit && $edit->billType=="तेवीसावे व अंतिम बिल")? 'SELECTED':'';?>        
+                                                     <?=(@$edit && $edit->billType=="चोविसावे रनिंग बिल ")? 'SELECTED':'';?>         
+                                                     <?=(@$edit && $edit->billType=="चोविसावे व अंतिम बिल")? 'SELECTED':'';?>        
+                                                     <?=(@$edit && $edit->billType=="पंचविसावे रनिंग बिल ")? 'SELECTED':'';?>        
+                                                     <?=(@$edit && $edit->billType=="पंचविसावे व अंतिम बिल")? 'SELECTED':'';?>       
+                                            </select>
