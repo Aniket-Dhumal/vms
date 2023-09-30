@@ -12,8 +12,8 @@
 					<div class="container-fluid">
 						<div class="d-flex">
 							<a class="header-brand" href="index.html">
-								<img src="<?=base_url();?>template/logo.jpeg" class="header-brand-img desktop-logo" alt="Amtos logo">
-								<img src="<?=base_url();?>template/logo.jpeg" class="header-brand-img mobile-view-logo" alt="Amtos logo">
+								<img src="<?=base_url();?>template/logo.PNG" class="header-brand-img desktop-logo" alt="Amtos logo">
+								<img src="<?=base_url();?>template/logo.PNG" class="header-brand-img mobile-view-logo" alt="Amtos logo">
 							</a><!-- LOGO -->
 							<a aria-label="Hide Sidebar" class="app-sidebar__toggle" data-toggle="sidebar" href="#"></a><!-- sidebar-toggle-->
 							<div class="d-flex order-lg-2 ml-auto header-right-icons header-search-icon">
