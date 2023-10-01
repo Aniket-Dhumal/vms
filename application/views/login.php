@@ -49,7 +49,7 @@
 				    <!-- CONTAINER OPEN -->
 					<div class="col col-login mx-auto">
 						<div class="text-center">
-							<img src="<?=base_url();?>template/logo.jpeg" class="" alt="">
+							<img src="<?=base_url();?>template/logo.PNG" class="" alt="VMS">
 						</div>
 					</div>
 					<div class="container-login100">

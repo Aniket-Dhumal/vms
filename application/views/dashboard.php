@@ -71,7 +71,7 @@
 			</div>
 		</div>
 	</div>
-	<!-- COL END 
+	<!-- COL END -->
 	<div class="col-sm-12 col-md-6 col-lg-6 col-xl-3">
 		<div class="card card-img-holder">
 			<div class="card-body list-type">
@@ -88,7 +88,7 @@
 				</div>
 			</div>
 		</div>
-	</div>-->
+	</div>
 	<!-- COL END -->
 </div>
 
