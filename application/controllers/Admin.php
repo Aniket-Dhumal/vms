@@ -25,7 +25,7 @@ class Admin extends CI_Controller {
 		$this->load->model('MemberModel');
 		$this->load->model('LoanModel');
 		$this->load->model('EmployeeModel');
-	//	$this->load->model('carModel');
+		$this->load->model('carModel');
 
 		if($this->session->userdata('token')){
 			$this->userRow=$this->db->query("SELECT * FROM users WHERE logintoken='".$this->session->userdata('token')."'")->row();
