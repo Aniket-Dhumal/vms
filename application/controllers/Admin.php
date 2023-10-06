@@ -25,6 +25,7 @@ class Admin extends CI_Controller {
 		$this->load->model('MemberModel');
 		$this->load->model('LoanModel');
 		$this->load->model('EmployeeModel');
+	//	$this->load->model('carModel');
 
 		if($this->session->userdata('token')){
 			$this->userRow=$this->db->query("SELECT * FROM users WHERE logintoken='".$this->session->userdata('token')."'")->row();
@@ -109,6 +110,13 @@ class Admin extends CI_Controller {
 	}
 	
 	
+	public function addcar()
+	{
+	  $this->header("Add Car");
+	  $data['users']=$this->UserModel->getUsers();
+	  $this->load->view('car/addcar.php',$data);
+	  $this->load->view('include/footer');
+  }
     public function UserList()
     {
 		$this->header("User List");

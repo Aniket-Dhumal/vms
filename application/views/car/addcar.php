@@ -5,7 +5,7 @@
 				<?=@$this->session->flashdata('result');?>
 			</div>
 			<div class="card-body">
-			<form action="<?=base_url();?>Admin/loan<?=((@$edit)?'/'.$edit->id:'');?>" method="post">
+			<form action="<?=base_url();?>Admin/addcar<?=((@$edit)?'/'.$edit->id:'');?>" method="post">
 				<div class="row">
                     <div class="col-md-6">
 						<div class="form-group">
