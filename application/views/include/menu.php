@@ -90,6 +90,14 @@
 								<li><a href="<?=base_url();?>Admin/loantypes" class="slide-item">Loan Types</a></li>
 							</ul>
 						</li>
+                  <!--        -->
+						<li class="slide">
+							<a class="side-menu__item" data-toggle="slide" href="#"><i class="fas fa-car"></i><span class="side-menu__label">Car</span><i class="angle fa fa-angle-right"></i></a>
+							<ul class="slide-menu">
+								<li><a href="<?=base_url();?>Admin/addcar" class="slide-item">Add Car</a></li>
+							</ul>
+						</li>
+
 						<li class="slide">
 							<a class="side-menu__item" href="<?=base_url();?>Admin/loan"><i class="side-menu__icon fa fa-laptop"></i><span class="side-menu__label">Loan Entry</span></a>
 						</li>
