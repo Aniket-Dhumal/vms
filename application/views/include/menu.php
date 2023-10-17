@@ -85,6 +85,13 @@
 							</ul>
 						</li>
 						<li class="slide">
+							<a class="side-menu__item" data-toggle="slide" href="#"><i class="side-menu__icon fa fa-cogs"></i><span class="side-menu__label">नोंदणी करा.</span><i class="angle fa fa-angle-right"></i></a>
+							<ul class="slide-menu">
+								<li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">जन्म नोंदणी.</a></li>
+								<li><a href="<?=base_url();?>Admin/UserList" class="slide-item">मृत्यू नोंदणी.</a></li>
+							</ul>
+						</li>
+						<li class="slide">
 							<a class="side-menu__item" data-toggle="slide" href="#"><i class="side-menu__icon fa fa-cogs"></i><span class="side-menu__label">Master</span><i class="angle fa fa-angle-right"></i></a>
 							<ul class="slide-menu">
 								<li><a href="<?=base_url();?>Admin/loantypes" class="slide-item">Loan Types</a></li>
