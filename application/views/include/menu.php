@@ -89,6 +89,8 @@
 							<ul class="slide-menu">
 								<li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">जन्म नोंदणी.</a></li>
 								<li><a href="<?=base_url();?>Admin/DeathRegistration" class="slide-item">मृत्यू नोंदणी.</a></li>
+								<li><a href="<?=base_url();?>Admin/MerriageRegistration" class="slide-item">विवाह नोंदणी.</a></li>
+
 							</ul>
 						</li>
 						<li class="slide">
