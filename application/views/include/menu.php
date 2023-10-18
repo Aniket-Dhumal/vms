@@ -94,7 +94,7 @@
 							</ul>
 						</li>
 
-						<li class="slide">
+<li class="slide">
 							<a class="side-menu__item" data-toggle="slide" href="#"><i class="side-menu__icon fa fa-cogs"></i><span class="side-menu__label">कर संकलन.</span><i class="angle fa fa-angle-right"></i></a>
 							<ul class="slide-menu">
 								<li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">जन्म नोंदणी.</a></li>
