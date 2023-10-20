@@ -102,7 +102,7 @@
 							   <li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">कुटुंब Dakhala.</a></li>
 								<li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">जन्म Dakhala.</a></li>
 								<li><a href="<?=base_url();?>Admin/DeathRegistration" class="slide-item">मृत्यू Dakhala.</a></li>
-								<li><a href="<?=base_url();?>Admin/MerriageRegistration" class="slide-item">विवाह नोंदणी.</a></li>
+								<li><a href="<?=base_url();?>Admin/MerriageRegistration" class="slide-item">विवाह नोंदणी Dakhala.</a></li>
 
 							</ul>
 						</li>
