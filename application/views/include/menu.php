@@ -100,7 +100,7 @@
 							<ul class="slide-menu">
 						
 							   <li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">कुटुंब दाखला.</a></li>
-								<li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">जन्म Dakhala.</a></li>
+								<li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">जन्म दाखला.</a></li>
 								<li><a href="<?=base_url();?>Admin/DeathRegistration" class="slide-item">मृत्यू Dakhala.</a></li>
 								<li><a href="<?=base_url();?>Admin/MerriageRegistration" class="slide-item">विवाह नोंदणी Dakhala.</a></li>
 
