@@ -99,7 +99,7 @@
 							<a class="side-menu__item" data-toggle="slide" href="#"><i class="side-menu__icon fa fa-cogs"></i><span class="side-menu__label">Dakhale.</span><i class="angle fa fa-angle-right"></i></a>
 							<ul class="slide-menu">
 						
-							   <li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">कुटुंब Dakhala.</a></li>
+							   <li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">कुटुंब दाखला.</a></li>
 								<li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">जन्म Dakhala.</a></li>
 								<li><a href="<?=base_url();?>Admin/DeathRegistration" class="slide-item">मृत्यू Dakhala.</a></li>
 								<li><a href="<?=base_url();?>Admin/MerriageRegistration" class="slide-item">विवाह नोंदणी Dakhala.</a></li>
