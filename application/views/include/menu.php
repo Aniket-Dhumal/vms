@@ -116,7 +116,15 @@
 
 							</ul>
 						</li>		
-						
+						<li class="slide">
+							<a class="side-menu__item" data-toggle="slide" href="#"><i class="side-menu__icon fa fa-cogs"></i><span class="side-menu__label">कर संकलन.</span><i class="angle fa fa-angle-right"></i></a>
+							<ul class="slide-menu">
+								<li><a href="<?=base_url();?>Admin/BirthRegistration" class="slide-item">घरपट्टी.</a></li>
+								<li><a href="<?=base_url();?>Admin/DeathRegistration" class="slide-item">पाणीपट्टी.</a></li>
+								<li><a href="<?=base_url();?>Admin/MerriageRegistration" class="slide-item">दिवाबत्ती कर.</a></li>
+
+							</ul>
+						</li>		
 						
 						<li class="slide">
 							<a class="side-menu__item" data-toggle="slide" href="#"><i class="side-menu__icon fa fa-cogs"></i><span class="side-menu__label">Master</span><i class="angle fa fa-angle-right"></i></a>
