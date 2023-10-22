@@ -112,7 +112,7 @@
 							<ul class="slide-menu">
 								<li><a href="<?=base_url();?>Admin/Gharpatti" class="slide-item">घरपट्टी.</a></li>
 								<li><a href="<?=base_url();?>Admin/Panipatti" class="slide-item">पाणीपट्टी.</a></li>
-								<li><a href="<?=base_url();?>Admin/MerriageRegistration" class="slide-item">दिवाबत्ती कर.</a></li>
+								<li><a href="<?=base_url();?>Admin/Divabatti" class="slide-item">दिवाबत्ती कर.</a></li>
 
 							</ul>
 						</li>		
